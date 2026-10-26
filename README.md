@@ -43,6 +43,7 @@ The extended ride height adjustment uses the original front and rear ride height
 **Installation**
 
 This mod requires the **FH2 Mod Platform 2.7.2 or higher**.
+https://github.com/Trinculo54/fh2-mod-platform
 
 Azimuth:
 Extract the files from this ZIP to Azimuth's main folder where "azimuth.exe" is located.
